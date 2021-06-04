@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="667" viewBox="0 0 375 667">
+  <defs>
+    <clipPath id="clip-ChatRoom_1">
+      <rect width="375" height="667" />
+    </clipPath>
+  </defs>
+  <g id="ChatRoom_1" data-name="ChatRoom – 1" clip-path="url(#clip-ChatRoom_1)">
+    <rect width="375" height="667" fill="#f7f7f7" />
+    <g id="Bottom">
+      <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(60 602)" fill="#fff"
+          stroke="#b0b0b0" stroke-width="1">
+        <rect width="256" height="47" rx="10" stroke="none" />
+        <rect x="0.5" y="0.5" width="255" height="46" rx="9.5" fill="none" />
+      </g>
+      <g id="outline-send-24px" transform="translate(334 612)">
+        <g id="Bounding_Boxes">
+          <path id="Path_2825" data-name="Path 2825" d="M0,0H28V28H0Z" fill="none" />
+        </g>
+        <g id="Outline" transform="translate(2 3)">
+          <path id="XMLID_1127_"
+              d="M4.393,6.7l8.94,3.936L4.381,9.417,4.393,6.7m8.929,10.658L4.381,21.3V18.583l8.94-1.222M2.012,3,2,11.556,19.857,14,2,16.444,2.012,25,27,14,2.012,3Z"
+              transform="translate(-2 -3)" fill="#3f3f3f" />
+        </g>
+      </g>
+      <g id="baseline-expand_less-24px" transform="translate(17 612)">
+        <path id="Path_2000" data-name="Path 2000"
+            d="M12,8,6,14l1.41,1.41L12,10.83l4.59,4.58L18,14Z" transform="translate(2 1.929)" />
+        <path id="Path_2001" data-name="Path 2001" d="M0,0H28V28H0Z" fill="none" />
+      </g>
+      <text id="Type_Some_Text" data-name="Type Some Text" transform="translate(75 631)"
+          fill="#e3e3e3" font-size="18" font-family="SegoeUI, Segoe UI">
+        <tspan x="0" y="0">Type Some Text</tspan>
+      </text>
+    </g>
+    <g id="Message_4" data-name="Message 4">
+      <g id="Chat" transform="translate(0 168)">
+        <rect id="Rectangle_3" data-name="Rectangle 3" width="86" height="48" rx="10"
+            transform="translate(212 228)" fill="rgba(13,138,188,0.5)" />
+        <text id="Slipper_" data-name="Slipper?" transform="translate(255 258)" fill="#fff"
+            font-size="15" font-family="SegoeUI, Segoe UI" letter-spacing="0.033em">
+          <tspan x="-28.077" y="0">Slipper?</tspan>
+        </text>
+      </g>
+      <text id="PM_5:49" data-name="PM 5:49" transform="translate(188 436)" fill="#666"
+          font-size="10" font-family="SegoeUI, Segoe UI" letter-spacing="0.033em">
+        <tspan x="-18.83" y="0">PM 5:49</tspan>
+      </text>
+      <g id="jeff" transform="translate(307 394)">
+        <circle id="Ellipse_3" data-name="Ellipse 3" cx="25" cy="25" r="25" fill="#0d8abc" />
+        <text id="JE" transform="translate(25 34)" fill="#fff" font-size="22"
+            font-family="SegoeUI, Segoe UI">
+          <tspan x="-9.491" y="0">JE</tspan>
+        </text>
+      </g>
+    </g>
+    <g id="Message_3" data-name="Message 3">
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="224" height="80" rx="10"
+          transform="translate(77 292)" fill="#fff" />
+      <text id="What_do_u_call_a_shoe_made_out_of_a_banana_" data-name="What do u call a shoe made
+out of a banana?" transform="translate(91 323)" font-size="15" font-family="SegoeUI, Segoe UI"
+          letter-spacing="0.033em">
+        <tspan x="0" y="0">What do u call a shoe made</tspan>
+        <tspan x="0" y="32">out of a banana?</tspan>
+      </text>
+      <g id="Message_stamp" transform="translate(133 228)">
+        <text id="PM_5:51" data-name="PM 5:51" transform="translate(195 139)" fill="#666"
+            font-size="10" font-family="SegoeUI, Segoe UI" letter-spacing="0.033em">
+          <tspan x="-18.83" y="0">PM 5:51</tspan>
+        </text>
+        <text id="Read" transform="translate(176 125)" fill="#666" font-size="11"
+            font-family="SegoeUI, Segoe UI" letter-spacing="0.033em">
+          <tspan x="0" y="0">Read</tspan>
+        </text>
+      </g>
+      <g id="zhon" transform="translate(15 322)">
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="25" cy="25" r="25" fill="#b4f8c8" />
+        <text id="ZH" transform="translate(25 33.741)" font-size="22"
+            font-family="SegoeUI, Segoe UI">
+          <tspan x="-14.083" y="0">ZH</tspan>
+        </text>
+      </g>
+    </g>
+    <g id="Message_2" data-name="Message 2">
+      <g id="Chat-2" data-name="Chat">
+        <rect id="Rectangle_3-2" data-name="Rectangle 3" width="62" height="48" rx="10"
+            transform="translate(236 228)" fill="rgba(13,138,188,0.5)" />
+        <text id="Sure" transform="translate(267 258)" fill="#fff" font-size="15"
+            font-family="SegoeUI, Segoe UI" letter-spacing="0.033em">
+          <tspan x="-15.508" y="0">Sure</tspan>
+        </text>
+      </g>
+      <text id="PM_5:49-2" data-name="PM 5:49" transform="translate(209 268)" fill="#666"
+          font-size="10" font-family="SegoeUI, Segoe UI" letter-spacing="0.033em">
+        <tspan x="-18.83" y="0">PM 5:49</tspan>
+      </text>
+      <g id="jeff-2" data-name="jeff" transform="translate(307 226)">
+        <circle id="Ellipse_3-2" data-name="Ellipse 3" cx="25" cy="25" r="25" fill="#0d8abc" />
+        <text id="JE-2" data-name="JE" transform="translate(25 34)" fill="#fff" font-size="22"
+            font-family="SegoeUI, Segoe UI">
+          <tspan x="-9.491" y="0">JE</tspan>
+        </text>
+      </g>
+    </g>
+    <g id="Message_1" data-name="Message 1">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="90" height="48" rx="10"
+          transform="translate(77 102)" fill="#fff" />
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="198" height="48" rx="10"
+          transform="translate(77 159)" fill="#fff" />
+      <text id="Hey_Jeff" data-name="Hey, Jeff" transform="translate(122 132)" font-size="15"
+          font-family="SegoeUI, Segoe UI" letter-spacing="0.033em">
+        <tspan x="-29.85" y="0">Hey, Jeff</tspan>
+      </text>
+      <text id="I_wanna_ask_u_a_question" data-name="I wanna ask u a question"
+          transform="translate(179 189)" font-size="15" font-family="SegoeUI, Segoe UI"
+          letter-spacing="0.033em">
+        <tspan x="-87.107" y="0">I wanna ask u a question</tspan>
+      </text>
+      <g id="Message_stamp-2" data-name="Message_stamp">
+        <text id="PM_5:47" data-name="PM 5:47" transform="translate(195 139)" fill="#666"
+            font-size="10" font-family="SegoeUI, Segoe UI" letter-spacing="0.033em">
+          <tspan x="-18.83" y="0">PM 5:47</tspan>
+        </text>
+        <text id="Read-2" data-name="Read" transform="translate(176 125)" fill="#666" font-size="11"
+            font-family="SegoeUI, Segoe UI" letter-spacing="0.033em">
+          <tspan x="0" y="0">Read</tspan>
+        </text>
+      </g>
+      <g id="Message_stamp-3" data-name="Message_stamp" transform="translate(106 61)">
+        <text id="PM_5:48" data-name="PM 5:48" transform="translate(195 139)" fill="#666"
+            font-size="10" font-family="SegoeUI, Segoe UI" letter-spacing="0.033em">
+          <tspan x="-18.83" y="0">PM 5:48</tspan>
+        </text>
+        <text id="Read-3" data-name="Read" transform="translate(176 125)" fill="#666" font-size="11"
+            font-family="SegoeUI, Segoe UI" letter-spacing="0.033em">
+          <tspan x="0" y="0">Read</tspan>
+        </text>
+      </g>
+      <g id="zhon-2" data-name="zhon" transform="translate(15 157)">
+        <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="25" cy="25" r="25" fill="#b4f8c8" />
+        <text id="ZH-2" data-name="ZH" transform="translate(25 33.741)" font-size="22"
+            font-family="SegoeUI, Segoe UI">
+          <tspan x="-14.083" y="0">ZH</tspan>
+        </text>
+      </g>
+    </g>
+    <g id="AppBar">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="375" height="68" fill="#d8d8d8" />
+      <g id="baseline-arrow_back-24px" transform="translate(22 21)">
+        <path id="Path_1968" data-name="Path 1968" d="M0,0H26V26H0Z" fill="none" />
+        <path id="Path_1969" data-name="Path 1969"
+            d="M22,11.875H8.309L14.6,5.586,13,4,4,13l9,9,1.586-1.586L8.309,14.125H22Z" />
+      </g>
+      <text id="Zhon-3" data-name="Zhon" transform="translate(68 43)" fill="#707070" font-size="26"
+          font-family="SegoeUI, Segoe UI">
+        <tspan x="0" y="0">Zhon</tspan>
+      </text>
+      <g id="Setting_Icon" data-name="Setting Icon" transform="translate(-5 -652)">
+        <path id="Path_439" data-name="Path 439" d="M0,0H28V28H0Z" transform="translate(336 672)"
+            fill="none" />
+        <path id="Path_440" data-name="Path 440"
+            d="M19.48,12.975A8.113,8.113,0,0,0,19.543,12a6.131,6.131,0,0,0-.075-.975l2.125-1.65a.515.515,0,0,0,.126-.637L19.706,5.275a.513.513,0,0,0-.616-.225l-2.5,1a7.376,7.376,0,0,0-1.7-.975l-.377-2.65a.5.5,0,0,0-.5-.425H9.989a.488.488,0,0,0-.49.425l-.377,2.65a7.573,7.573,0,0,0-1.7.975l-2.5-1a.5.5,0,0,0-.616.225L2.295,8.737a.483.483,0,0,0,.126.638l2.125,1.65a5.858,5.858,0,0,0-.013,1.95l-2.125,1.65a.515.515,0,0,0-.126.638l2.011,3.463a.513.513,0,0,0,.616.225l2.5-1a7.376,7.376,0,0,0,1.7.975l.377,2.65a.511.511,0,0,0,.5.425h4.023a.479.479,0,0,0,.49-.425l.377-2.65a7.573,7.573,0,0,0,1.7-.975l2.5,1a.5.5,0,0,0,.616-.225l2.011-3.462a.483.483,0,0,0-.126-.638l-2.1-1.65ZM12,15.75A3.75,3.75,0,1,1,15.771,12,3.772,3.772,0,0,1,12,15.75Z"
+            transform="translate(337.778 674)" fill="#666" />
+      </g>
+    </g>
+  </g>
+</svg>

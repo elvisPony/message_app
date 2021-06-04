@@ -1,0 +1,100 @@
+<svg height="667" viewBox="0 0 375 667" width="375" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip-ChatPage_1">
+      <rect height="667" width="375" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip-ChatPage_1)" data-name="ChatPage – 1" id="ChatPage_1">
+    <rect fill="#f7f7f7" height="667" width="375" />
+    <g data-name="Friend Chat-1" id="Friend_Chat-1" transform="translate(-17 -31)">
+      <rect data-name="Rectangle 10" fill="#fff" height="79" id="Rectangle_10"
+          transform="translate(17 99)" width="375" />
+      <text data-name="Jeff / 打球群" font-family="SegoeUI, Segoe UI" font-size="21" id="Jeff_打球群"
+          letter-spacing="0.033em" transform="translate(177 148)">
+        <tspan x="-60.305" y="0">Jeff /</tspan>
+        <tspan font-family="YuGothicUI-Regular, Yu Gothic UI" y="0">打球群</tspan>
+      </text>
+      <g id="jeff" transform="translate(42 114)">
+        <circle cx="25" cy="25" data-name="Ellipse 3" fill="#0d8abc" id="Ellipse_3" r="25" />
+        <text fill="#fff" font-family="SegoeUI, Segoe UI" font-size="22" id="JE"
+            transform="translate(25 34)">
+          <tspan x="-9.491" y="0">JE</tspan>
+        </text>
+      </g>
+    </g>
+    <g data-name="Friend Chat-2" id="Friend_Chat-2" transform="translate(-17 48)">
+      <rect data-name="Rectangle 10" fill="#fff" height="79" id="Rectangle_10-2"
+          transform="translate(17 99)" width="375" />
+      <text data-name="Jeff / 古蹟文化交流" font-family="SegoeUI, Segoe UI" font-size="21" id="Jeff_古蹟文化交流"
+          letter-spacing="0.033em" transform="translate(210 148)">
+        <tspan x="-92.855" y="0">Jeff /</tspan>
+        <tspan font-family="YuGothicUI-Regular, Yu Gothic UI" y="0">古蹟文化交流</tspan>
+      </text>
+      <g data-name="jeff" id="jeff-2" transform="translate(42 114)">
+        <circle cx="25" cy="25" data-name="Ellipse 3" fill="#0d8abc" id="Ellipse_3-2" r="25" />
+        <text data-name="JE" fill="#fff" font-family="SegoeUI, Segoe UI" font-size="22" id="JE-2"
+            transform="translate(25 34)">
+          <tspan x="-9.491" y="0">JE</tspan>
+        </text>
+      </g>
+    </g>
+    <g data-name="Friend Chat-3" id="Friend_Chat-3" transform="translate(-17 127)">
+      <rect data-name="Rectangle 10" fill="#fff" height="79" id="Rectangle_10-3"
+          transform="translate(17 99)" width="375" />
+      <text data-name="Zhon / o敏捷o" font-family="SegoeUI, Segoe UI" font-size="21" id="Zhon_o敏捷o"
+          letter-spacing="0.033em" transform="translate(188 148)">
+        <tspan x="-70.673" y="0">Zhon / o</tspan>
+        <tspan font-family="YuGothicUI-Regular, Yu Gothic UI" y="0">敏捷</tspan>
+        <tspan y="0">o</tspan>
+      </text>
+      <g id="zhon" transform="translate(42 114)">
+        <circle cx="25" cy="25" data-name="Ellipse 2" fill="#b4f8c8" id="Ellipse_2" r="25" />
+        <text font-family="SegoeUI, Segoe UI" font-size="22" id="ZH"
+            transform="translate(25 33.741)">
+          <tspan x="-14.083" y="0">ZH</tspan>
+        </text>
+      </g>
+    </g>
+    <g id="AppBar">
+      <rect data-name="Rectangle 1" fill="#d8d8d8" height="68" id="Rectangle_1" width="375" />
+      <text fill="#707070" font-family="SegoeUI, Segoe UI" font-size="26" id="Message"
+          transform="translate(68 43)">
+        <tspan x="0" y="0">Message</tspan>
+      </text>
+      <g id="baseline-menu-24px" transform="translate(22 20)">
+        <path d="M0,0H28V28H0Z" data-name="Path 2012" fill="none" id="Path_2012" />
+        <path d="M3,21.6H23.2V19H3Zm0-6.5H23.2V12.5H3ZM3,6V8.6H23.2V6Z" data-name="Path 2013"
+            fill="#898888"
+            id="Path_2013" transform="translate(0.899 0.201)" />
+      </g>
+      <g id="baseline-more_vert-24px" transform="translate(333 22)">
+        <path d="M0,0H24V24H0Z" data-name="Path 2016" fill="none" id="Path_2016" />
+        <path d="M12,8a2,2,0,1,0-2-2A2.006,2.006,0,0,0,12,8Zm0,2a2,2,0,1,0,2,2A2.006,2.006,0,0,0,12,10Zm0,6a2,2,0,1,0,2,2A2.006,2.006,0,0,0,12,16Z" data-name="Path 2017"
+            fill="#666"
+            id="Path_2017" />
+      </g>
+    </g>
+    <g id="BottomNavBar">
+      <rect data-name="Rectangle 128" fill="#d8d8d8" height="68" id="Rectangle_128"
+          transform="translate(0 599)" width="375" />
+      <circle cx="54" cy="54" data-name="Ellipse 5" fill="#d8d8d8" id="Ellipse_5"
+          r="54" transform="translate(215 579)" />
+      <circle cx="39" cy="39" data-name="Ellipse 4" fill="#fff" id="Ellipse_4"
+          r="39" transform="translate(230 585)" />
+      <g id="baseline-message-24px" transform="translate(255 611)">
+        <path d="M4.4,2H23.6a2.4,2.4,0,0,1,2.388,2.4L26,26l-4.8-4.8H4.4A2.407,2.407,0,0,1,2,18.8V4.4A2.407,2.407,0,0,1,4.4,2ZM6.8,16.4H21.2V14H6.8Zm0-3.6H21.2V10.4H6.8Zm0-3.6H21.2V6.8H6.8Z" data-name="Path 853"
+            id="Path_853" />
+        <path d="M28,0H0V28H28Z" data-name="Path 854" fill="none" id="Path_854" />
+      </g>
+      <g id="baseline-home-24px" transform="translate(99 610)">
+        <path d="M11.6,24V16.588h4.8V24h6V14.118H26L14,3,2,14.118H5.6V24Z" data-name="Path 304"
+            id="Path_304" />
+        <path d="M0,0H28V28H0Z" data-name="Path 305" fill="none" id="Path_305" />
+      </g>
+      <text font-family="SegoeUI, Segoe UI" font-size="15" id="Home" letter-spacing="0.033em"
+          transform="translate(113 660)">
+        <tspan x="-20.851" y="0">Home</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="667" viewBox="0 0 375 667">
+  <defs>
+    <clipPath id="clip-HomePage_1">
+      <rect width="375" height="667" />
+    </clipPath>
+  </defs>
+  <g id="HomePage_1" data-name="HomePage – 1" clip-path="url(#clip-HomePage_1)">
+    <rect width="375" height="667" fill="#f7f7f7" />
+    <g id="Friend_TItle-1" data-name="Friend TItle-1" transform="translate(-7 -23)">
+      <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(17 99)" fill="#fff"
+          stroke="#e6e6e6" stroke-width="1">
+        <rect width="120" height="120" rx="10" stroke="none" />
+        <rect x="0.5" y="0.5" width="119" height="119" rx="9.5" fill="none" />
+      </g>
+      <g id="jeff" transform="translate(54.188 125.25)">
+        <circle id="Ellipse_3" data-name="Ellipse 3" cx="25" cy="25" r="25" fill="#0d8abc" />
+        <text id="JE" transform="translate(25 34)" fill="#fff" font-size="22"
+            font-family="SegoeUI, Segoe UI">
+          <tspan x="-9.491" y="0">JE</tspan>
+        </text>
+      </g>
+      <text id="Jeff-2" data-name="Jeff" transform="translate(77 209)" font-size="15"
+          font-family="SegoeUI, Segoe UI" letter-spacing="0.033em">
+        <tspan x="-12.044" y="0">Jeff</tspan>
+      </text>
+    </g>
+    <g id="Friend_Title-2" data-name="Friend Title-2" transform="translate(4 -23)">
+      <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(131 99)" fill="#fff"
+          stroke="#eaeaea" stroke-width="1">
+        <rect width="120" height="120" rx="10" stroke="none" />
+        <rect x="0.5" y="0.5" width="119" height="119" rx="9.5" fill="none" />
+      </g>
+      <text id="Zhon" transform="translate(191 208)" font-size="15" font-family="SegoeUI, Segoe UI"
+          letter-spacing="0.033em">
+        <tspan x="-17.911" y="0">Zhon</tspan>
+      </text>
+      <g id="zhon-2" data-name="zhon" transform="translate(164.906 125.25)">
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="25" cy="25" r="25" fill="#b4f8c8" />
+        <text id="ZH" transform="translate(25 33.741)" font-size="22"
+            font-family="SegoeUI, Segoe UI">
+          <tspan x="-14.083" y="0">ZH</tspan>
+        </text>
+      </g>
+    </g>
+    <g id="AppBar">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="375" height="68" fill="#d8d8d8" />
+      <text id="Friends" transform="translate(68 43)" fill="#707070" font-size="26"
+          font-family="SegoeUI, Segoe UI">
+        <tspan x="0" y="0">Friends</tspan>
+      </text>
+      <g id="baseline-menu-24px" transform="translate(22 20)">
+        <path id="Path_2012" data-name="Path 2012" d="M0,0H28V28H0Z" fill="none" />
+        <path id="Path_2013" data-name="Path 2013"
+            d="M3,21.6H23.2V19H3Zm0-6.5H23.2V12.5H3ZM3,6V8.6H23.2V6Z"
+            transform="translate(0.899 0.201)" fill="#898888" />
+      </g>
+      <g id="outline-person_add-24px" transform="translate(333 22)">
+        <g id="Bounding_Boxes">
+          <path id="Path_3495" data-name="Path 3495" d="M0,0H24V24H0Z" fill="none" />
+        </g>
+        <g id="Outline">
+          <g id="Group_390" data-name="Group 390">
+            <path id="Path_3496" data-name="Path 3496"
+                d="M15,12a4,4,0,1,0-4-4A4,4,0,0,0,15,12Zm0-6a2,2,0,1,1-2,2A2.006,2.006,0,0,1,15,6Z"
+                fill="#666" />
+            <path id="Path_3497" data-name="Path 3497"
+                d="M15,14c-2.67,0-8,1.34-8,4v2H23V18C23,15.34,17.67,14,15,14ZM9,18c.22-.72,3.31-2,6-2s5.8,1.29,6,2Z"
+                fill="#666" />
+            <path id="Path_3498" data-name="Path 3498" d="M6,15V12H9V10H6V7H4v3H1v2H4v3Z"
+                fill="#666" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="BottomNavBar">
+      <rect id="Rectangle_128" data-name="Rectangle 128" width="375" height="68"
+          transform="translate(0 599)" fill="#d8d8d8" />
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="54" cy="54" r="54"
+          transform="translate(59 579)" fill="#d8d8d8" />
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="39" cy="39" r="39"
+          transform="translate(74 585)" fill="#fff" />
+      <g id="baseline-message-24px" transform="translate(255 611)">
+        <path id="Path_853" data-name="Path 853"
+            d="M4.4,2H23.6a2.4,2.4,0,0,1,2.388,2.4L26,26l-4.8-4.8H4.4A2.407,2.407,0,0,1,2,18.8V4.4A2.407,2.407,0,0,1,4.4,2ZM6.8,16.4H21.2V14H6.8Zm0-3.6H21.2V10.4H6.8Zm0-3.6H21.2V6.8H6.8Z" />
+        <path id="Path_854" data-name="Path 854" d="M28,0H0V28H28Z" fill="none" />
+      </g>
+      <g id="baseline-home-24px" transform="translate(99 610)">
+        <path id="Path_304" data-name="Path 304"
+            d="M11.6,24V16.588h4.8V24h6V14.118H26L14,3,2,14.118H5.6V24Z" />
+        <path id="Path_305" data-name="Path 305" d="M0,0H28V28H0Z" fill="none" />
+      </g>
+      <text id="Comment" transform="translate(271 660)" font-size="15"
+          font-family="SegoeUI, Segoe UI" letter-spacing="0.033em">
+        <tspan x="-34.166" y="0">Comment</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

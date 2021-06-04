@@ -1,0 +1,256 @@
+<svg height="667" viewBox="0 0 375 667" width="375" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter filterUnits="userSpaceOnUse" height="71" id="Rectangle" width="390" x="-7.5" y="608.5">
+      <feOffset dy="5" input="SourceAlpha" />
+      <feGaussianBlur result="blur" stdDeviation="2.5" />
+      <feFlood flood-opacity="0.2" />
+      <feComposite in2="blur" operator="in" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+    <filter filterUnits="userSpaceOnUse" height="98" id="Rectangle-2" width="417" x="-21" y="593">
+      <feOffset dy="3" input="SourceAlpha" />
+      <feGaussianBlur result="blur-2" stdDeviation="7" />
+      <feFlood flood-opacity="0.122" />
+      <feComposite in2="blur-2" operator="in" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+    <filter filterUnits="userSpaceOnUse" height="86" id="Rectangle-3" width="405" x="-15" y="604">
+      <feOffset dy="8" input="SourceAlpha" />
+      <feGaussianBlur result="blur-3" stdDeviation="5" />
+      <feFlood flood-opacity="0.141" />
+      <feComposite in2="blur-3" operator="in" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+    <filter filterUnits="userSpaceOnUse" height="65" id="Rectangle_8" width="65" x="288.5" y="20.5">
+      <feOffset dy="1" input="SourceAlpha" />
+      <feGaussianBlur result="blur-4" stdDeviation="1.5" />
+      <feFlood flood-opacity="0.161" />
+      <feComposite in2="blur-4" operator="in" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+    <filter filterUnits="userSpaceOnUse" height="65" id="Rectangle_8-2" width="65" x="218.5"
+        y="20.5">
+      <feOffset dy="1" input="SourceAlpha" />
+      <feGaussianBlur result="blur-5" stdDeviation="1.5" />
+      <feFlood flood-opacity="0.161" />
+      <feComposite in2="blur-5" operator="in" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+    <filter filterUnits="userSpaceOnUse" height="74" id="Ellipse_1" width="74" x="11" y="18">
+      <feOffset dy="3" input="SourceAlpha" />
+      <feGaussianBlur result="blur-6" stdDeviation="3" />
+      <feFlood flood-color="#8f8f8f" flood-opacity="0.161" />
+      <feComposite in2="blur-6" operator="in" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+    <clipPath id="clip-ChatPage">
+      <rect height="667" width="375" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip-ChatPage)" id="ChatPage">
+    <rect fill="#f7f7f7" height="667" width="375" />
+    <g data-name="Light 🌕/ Bottom Nav/1. Three up (3 States)"
+        id="Light_Bottom_Nav_1._Three_up_3_States_" transform="translate(0 611)">
+      <g data-name="Light 🌕/ Bottom Nav/Container" id="Light_Bottom_Nav_Container">
+        <g data-name="Light 🌕/Elevation/00dp" id="Light_Elevation_00dp">
+          <g id="Shadow">
+            <g style="mix-blend-mode: multiply;isolation: isolate" filter="url(#Rectangle)"
+                transform="matrix(1, 0, 0, 1, 0, -611)">
+              <rect data-name="Rectangle" fill="#fff" height="56" id="Rectangle-4"
+                  transform="translate(0 611)" width="375" />
+            </g>
+            <g style="mix-blend-mode: multiply;isolation: isolate" filter="url(#Rectangle-2)"
+                transform="matrix(1, 0, 0, 1, 0, -611)">
+              <rect data-name="Rectangle" fill="#fff" height="56" id="Rectangle-5"
+                  transform="translate(0 611)" width="375" />
+            </g>
+            <g style="mix-blend-mode: multiply;isolation: isolate" filter="url(#Rectangle-3)"
+                transform="matrix(1, 0, 0, 1, 0, -611)">
+              <rect data-name="Rectangle" fill="#fff" height="56" id="Rectangle-6"
+                  transform="translate(0 611)" width="375" />
+            </g>
+          </g>
+        </g>
+        <rect fill="#f3ebff" height="56" id="Primary" width="375" />
+      </g>
+      <g data-name="Light 🌕/ Bottom Nav/Tab on Primary" id="Light_Bottom_Nav_Tab_on_Primary"
+          transform="translate(68)">
+        <g data-name="Light 🌕/Elevation/00dp" id="Light_Elevation_00dp-2">
+          <rect style="mix-blend-mode: multiply;isolation: isolate" data-name="Rectangle"
+              fill="#fff" height="56" id="Rectangle-7" width="120" />
+        </g>
+        <text data-name="✏️ Caption" fill="#b8b8b8" font-family="SegoeUI, Segoe UI" font-size="12"
+            id="_Caption" letter-spacing="0.033em" transform="translate(60 45)">
+          <tspan x="-20.281" y="0">Friends</tspan>
+        </text>
+      </g>
+      <g data-name="Light 🌕/ Bottom Nav/Tab on Primary" id="Light_Bottom_Nav_Tab_on_Primary-2"
+          transform="translate(188)">
+        <g data-name="Light 🌕/Elevation/00dp" id="Light_Elevation_00dp-3">
+          <rect style="mix-blend-mode: multiply;isolation: isolate" data-name="Rectangle"
+              fill="#fff" height="56" id="Rectangle-8" width="120" />
+        </g>
+        <text data-name="✏️ Caption" fill="rgba(75,0,255,0.87)" font-family="SegoeUI, Segoe UI"
+            font-size="12" id="_Caption-2" letter-spacing="0.033em" transform="translate(60 45)">
+          <tspan x="-12.796" y="0">Chat</tspan>
+        </text>
+        <g id="chat" transform="translate(45.694 8)">
+          <g data-name="Group 220" id="Group_220" transform="translate(3.366)">
+            <g data-name="Group 219" id="Group_219" transform="translate(0)">
+              <path
+                  d="M14.859,0c-.006.006-.019.006-.037.006A11.43,11.43,0,0,0,5.857,18.56L4.19,22.43a.621.621,0,0,0,.325.818.635.635,0,0,0,.356.044l6.112-1.074a11.014,11.014,0,0,0,3.808.662A11.44,11.44,0,0,0,14.859,0ZM14.8,21.637a10.021,10.021,0,0,1-3.527-.643.6.6,0,0,0-.331-.031l-5.144.9L7.155,18.7a.628.628,0,0,0-.1-.655A9.98,9.98,0,0,1,5.32,15.157,10.193,10.193,0,1,1,25,11.387v.037A10.22,10.22,0,0,1,14.8,21.637Z"
+                  data-name="Path 2863" fill="rgba(75,0,255,0.87)" id="Path_2863"
+                  transform="translate(-3.366)" />
+            </g>
+          </g>
+          <g data-name="Group 222" id="Group_222" transform="translate(10.314 9.158)">
+            <g data-name="Group 221" id="Group_221">
+              <path d="M118.661,146.7H115.29a.624.624,0,1,0,0,1.249h3.371a.624.624,0,1,0,0-1.249Z"
+                  data-name="Path 2864" fill="rgba(75,0,255,0.87)" id="Path_2864"
+                  transform="translate(-114.666 -146.7)" />
+            </g>
+          </g>
+          <g data-name="Group 224" id="Group_224" transform="translate(10.314 12.28)">
+            <g data-name="Group 223" id="Group_223">
+              <path d="M123.031,196.7H115.29a.624.624,0,1,0,0,1.249h7.741a.624.624,0,1,0,0-1.249Z"
+                  data-name="Path 2865" fill="rgba(75,0,255,0.87)" id="Path_2865"
+                  transform="translate(-114.666 -196.7)" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g data-name="Add Friend Button" id="Add_Friend_Button" transform="translate(273)">
+      <g filter="url(#Rectangle_8)" transform="matrix(1, 0, 0, 1, -273, 0)">
+        <rect data-name="Rectangle 8" fill="#fff" height="56" id="Rectangle_8-3" rx="28"
+            transform="translate(293 24)" width="56" />
+      </g>
+      <g id="outline-person_add-24px" transform="translate(36 40)">
+        <g id="Bounding_Boxes">
+          <path d="M0,0H24V24H0Z" data-name="Path 3495" fill="none" id="Path_3495" />
+        </g>
+        <g id="Outline">
+          <g data-name="Group 390" id="Group_390">
+            <path
+                d="M15,12a4,4,0,1,0-4-4A4,4,0,0,0,15,12Zm0-6a2,2,0,1,1-2,2A2.006,2.006,0,0,1,15,6Z"
+                data-name="Path 3496" fill="#b8b8b8" id="Path_3496" />
+            <path
+                d="M15,14c-2.67,0-8,1.34-8,4v2H23V18C23,15.34,17.67,14,15,14ZM9,18c.22-.72,3.31-2,6-2s5.8,1.29,6,2Z"
+                data-name="Path 3497" fill="#b8b8b8" id="Path_3497" />
+            <path d="M6,15V12H9V10H6V7H4v3H1v2H4v3Z" data-name="Path 3498" fill="#b8b8b8"
+                id="Path_3498" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g data-name="Delete Button" id="Delete_Button" transform="translate(203)">
+      <g filter="url(#Rectangle_8-2)" transform="matrix(1, 0, 0, 1, -203, 0)">
+        <rect data-name="Rectangle 8" fill="#fff" height="56" id="Rectangle_8-4" rx="28"
+            transform="translate(223 24)" width="56" />
+      </g>
+      <g id="outline-delete_sweep-24px" transform="translate(36 40)">
+        <g data-name="Bounding_Boxes" id="Bounding_Boxes-2">
+          <path d="M0,0H24V24H0Z" data-name="Path 2784" fill="none" id="Path_2784" />
+        </g>
+        <g data-name="Outline" id="Outline-2">
+          <g data-name="Group 198" id="Group_198">
+            <rect data-name="Rectangle 125" fill="#b8b8b8" height="2" id="Rectangle_125"
+                transform="translate(15 16)" width="4" />
+            <rect data-name="Rectangle 126" fill="#b8b8b8" height="2" id="Rectangle_126"
+                transform="translate(15 8)" width="7" />
+            <rect data-name="Rectangle 127" fill="#b8b8b8" height="2" id="Rectangle_127"
+                transform="translate(15 12)" width="6" />
+            <path d="M3,18a2.006,2.006,0,0,0,2,2h6a2.006,2.006,0,0,0,2-2V8H3Zm2-8h6v8H5Z"
+                data-name="Path 2785" fill="#b8b8b8" id="Path_2785" />
+            <path d="M10,4H6L5,5H2V7H14V5H11Z" data-name="Path 2786" fill="#b8b8b8"
+                id="Path_2786" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g data-name="Menu Button" id="Menu_Button">
+      <g filter="url(#Ellipse_1)" transform="matrix(1, 0, 0, 1, 0, 0)">
+        <circle cx="28" cy="28" data-name="Ellipse 1" fill="#fff" id="Ellipse_1-2" r="28"
+            transform="translate(20 24)" />
+      </g>
+      <g id="baseline-menu-24px" transform="translate(34.402 38.402)">
+        <path d="M0,0H28V28H0Z" data-name="Path 2012" fill="none" id="Path_2012" />
+        <path d="M3,21.6H23.2V19H3Zm0-6.5H23.2V12.5H3ZM3,6V8.6H23.2V6Z" data-name="Path 2013"
+            fill="#898888" id="Path_2013" transform="translate(0.899 0.201)" />
+      </g>
+    </g>
+    <path
+        d="M26.362,14.4a7.331,7.331,0,0,0-4.212-5.513,4.581,4.581,0,0,0,1.562-3.471,4.4,4.4,0,0,0-4.278-4.5,4.4,4.4,0,0,0-4.278,4.5,4.581,4.581,0,0,0,1.563,3.473,6.909,6.909,0,0,0-1.03.562A7.246,7.246,0,0,0,13.6,11.569a8.693,8.693,0,0,0-1.784-.942,5.664,5.664,0,0,0,2.24-4.55A5.45,5.45,0,0,0,8.758.5a5.45,5.45,0,0,0-5.3,5.576,5.664,5.664,0,0,0,2.24,4.55,9.212,9.212,0,0,0-5.667,7.1,2.157,2.157,0,0,0,.446,1.725,1.986,1.986,0,0,0,1.544.748H15.5a1.986,1.986,0,0,0,1.544-.748,2.157,2.157,0,0,0,.446-1.725,9.8,9.8,0,0,0-.285-1.2H24.65a1.71,1.71,0,0,0,1.329-.643,1.854,1.854,0,0,0,.383-1.483ZM16.7,5.413a2.737,2.737,0,1,1,5.464,0,2.737,2.737,0,1,1-5.464,0ZM5,6.077A3.876,3.876,0,0,1,8.758,2.1a3.877,3.877,0,0,1,3.755,3.979,3.877,3.877,0,0,1-3.755,3.979A3.876,3.876,0,0,1,5,6.077ZM15.855,18.423a.46.46,0,0,1-.358.176H2.02a.46.46,0,0,1-.358-.176A.52.52,0,0,1,1.553,18a7.44,7.44,0,0,1,7.205-6.35A7.44,7.44,0,0,1,15.963,18a.519.519,0,0,1-.109.42Zm8.939-3.569a.186.186,0,0,1-.144.072h-8.1a9.27,9.27,0,0,0-1.734-2.357,5.4,5.4,0,0,1,4.617-2.66,5.583,5.583,0,0,1,5.406,4.767.219.219,0,0,1-.046.178Zm0,0"
+        fill="#b8b8b8" id="friends" transform="translate(114.002 620.512)" />
+    <g data-name="Friend Chat-1" id="Friend_Chat-1" transform="translate(2 5)">
+      <g data-name="Rectangle 10" fill="#fff" id="Rectangle_10" stroke="#e6e6e6" stroke-width="2"
+          transform="translate(17 99)">
+        <rect height="79" rx="10" stroke="none" width="338" />
+        <rect fill="none" height="77" rx="9" width="336" x="1" y="1" />
+      </g>
+      <text fill="#0d8abc" font-family="SegoeUI, Segoe UI" font-size="21" id="Jeff"
+          letter-spacing="0.033em" transform="translate(148 148)">
+        <tspan x="-16.862" y="0">Jeff</tspan>
+      </text>
+      <text data-name="/ 打球群" fill="rgba(13,138,188,0.6)" font-family="SegoeUI, Segoe UI"
+          font-size="21" id="_打球群" letter-spacing="0.033em" transform="translate(218 146)">
+        <tspan x="-39.868" y="0">/</tspan>
+        <tspan font-family="YuGothicUI-Regular, Yu Gothic UI" y="0">打球群</tspan>
+      </text>
+      <g data-name="jeff" id="jeff-2" transform="translate(42 114)">
+        <circle cx="25" cy="25" data-name="Ellipse 3" fill="#0d8abc" id="Ellipse_3" r="25" />
+        <text fill="#fff" font-family="SegoeUI, Segoe UI" font-size="22" id="JE"
+            transform="translate(25 34)">
+          <tspan x="-9.491" y="0">JE</tspan>
+        </text>
+      </g>
+    </g>
+    <g data-name="Friend Chat-2" id="Friend_Chat-2" transform="translate(2 92)">
+      <g data-name="Rectangle 10" fill="#fff" id="Rectangle_10-2" stroke="#e6e6e6" stroke-width="2"
+          transform="translate(17 99)">
+        <rect height="79" rx="10" stroke="none" width="338" />
+        <rect fill="none" height="77" rx="9" width="336" x="1" y="1" />
+      </g>
+      <text data-name="Jeff" fill="#0d8abc" font-family="SegoeUI, Segoe UI" font-size="21"
+          id="Jeff-3" letter-spacing="0.033em" transform="translate(148 148)">
+        <tspan x="-16.862" y="0">Jeff</tspan>
+      </text>
+      <text data-name="/ 古蹟文化交流" fill="rgba(13,138,188,0.6)" font-family="SegoeUI, Segoe UI"
+          font-size="21" id="_古蹟文化交流" letter-spacing="0.033em" transform="translate(251 147)">
+        <tspan x="-72.418" y="0">/</tspan>
+        <tspan font-family="YuGothicUI-Regular, Yu Gothic UI" y="0">古蹟文化交流</tspan>
+      </text>
+      <g data-name="jeff" id="jeff-4" transform="translate(42 114)">
+        <circle cx="25" cy="25" data-name="Ellipse 3" fill="#0d8abc" id="Ellipse_3-2" r="25" />
+        <text data-name="JE" fill="#fff" font-family="SegoeUI, Segoe UI" font-size="22" id="JE-2"
+            transform="translate(25 34)">
+          <tspan x="-9.491" y="0">JE</tspan>
+        </text>
+      </g>
+    </g>
+    <g data-name="Friend Chat-3" id="Friend_Chat-3" transform="translate(2 179)">
+      <g data-name="Rectangle 10" fill="#fff" id="Rectangle_10-3" stroke="#e6e6e6" stroke-width="2"
+          transform="translate(17 99)">
+        <rect height="79" rx="10" stroke="none" width="338" />
+        <rect fill="none" height="77" rx="9" width="336" x="1" y="1" />
+      </g>
+      <text fill="#0d8abc" font-family="SegoeUI, Segoe UI" font-size="21" id="Zhon"
+          letter-spacing="0.033em" transform="translate(148 148)">
+        <tspan x="-25.075" y="0">Zhon</tspan>
+      </text>
+      <text data-name="/ o敏捷o" fill="rgba(13,138,188,0.6)" font-family="SegoeUI, Segoe UI"
+          font-size="21" id="_o敏捷o" letter-spacing="0.033em" transform="translate(221 148)">
+        <tspan x="-42.022" y="0">/ o</tspan>
+        <tspan font-family="YuGothicUI-Regular, Yu Gothic UI" y="0">敏捷</tspan>
+        <tspan y="0">o</tspan>
+      </text>
+      <g data-name="zhon" id="zhon-2" transform="translate(42 114)">
+        <circle cx="25" cy="25" data-name="Ellipse 2" fill="#b4f8c8" id="Ellipse_2" r="25" />
+        <text font-family="SegoeUI, Segoe UI" font-size="22" id="ZH"
+            transform="translate(25 33.741)">
+          <tspan x="-14.083" y="0">ZH</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
